@@ -1,0 +1,2 @@
+# Silicon_Labs_HW_Design_and_Docs_Translation
+Silicon_Labs_HW_Design_and_Docs_Translation
