@@ -1,10 +1,10 @@
-English | [Chinese](./README_CN.md)
+[英文](./README.md) | 中文
 
-[Access from China](https://gitee.com/napoleon940911/Silicon_Labs_HW_Design_and_Docs_Translation) | [Access from Wordwide](https://github.com/Napoleon940911/Silicon_Labs_HW_Design_and_Docs_Translation)
+[从中国访问](https://gitee.com/napoleon940911/Silicon_Labs_HW_Design_and_Docs_Translation) | [从全球访问](https://github.com/Napoleon940911/Silicon_Labs_HW_Design_and_Docs_Translation)
 
-**This repository mainly contains:**
-- hardware reference design of the chips from Silicon Labs;
-- translation of the documentation from Silicon Labs.
+**本仓库主要包含：**
+- Silicon Labs（芯科）芯片的硬件参考设计；
+- Silicon Labs（芯科）文档的翻译。
 
 ---
 
